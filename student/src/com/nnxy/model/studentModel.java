@@ -1,5 +1,7 @@
 package com.nnxy.model;
 
+//asdfgh
+
 public class studentModel {
 private int age;
 private int sex;
